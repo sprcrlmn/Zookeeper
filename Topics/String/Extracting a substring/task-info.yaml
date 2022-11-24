@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.Scanner;
+
+    class Main {
+        public static void main(String[] args) {
+            Scanner scanner = new Scanner(System.in);
+            // start coding here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2716#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 5. Wrong answer\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\nJava\n0 2\nCorrect output:\nJav\n\nYour code output:\n\
+    You can use \"single\" or \"\"double\"\" quotes any time you like.\nBut you must\
+    \ escape one if you want triple quotes: \"\"\"\nor \"\"\"\" if you want four.\n\
+    The line after me will be directly concatenated onto the same lineBut this line\
+    \ will preserve a single trailing space at the end \nAnd this line will keep six\
+    \ trailing spaces\n"
+  time: "Tue, 22 Nov 2022 15:51:22 UTC"
+record: -1
